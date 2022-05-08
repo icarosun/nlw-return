@@ -10,6 +10,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
     padding: 8,
     borderRadius: 8,
+    marginHorizontal: 8,
     backgroundColor: theme.colors.surface_secondary
   },
   image: {
